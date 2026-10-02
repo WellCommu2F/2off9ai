@@ -1,0 +1,12 @@
+# 浏览器"另存为"产生的快照备份，不入库
+.backup/
+
+# 系统与编辑器杂项
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+
+# 临时文件
+*.tmp
+~$*
